@@ -1,0 +1,7 @@
+{
+  "name": "shortcutsPOC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
